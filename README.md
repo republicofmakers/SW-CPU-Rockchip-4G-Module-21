@@ -1,1 +1,1 @@
-# SW-CPU-Rockchip-4G-SIMCOM-22
+# SW-CPU-Rockchip-4G-Module-21
