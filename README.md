@@ -34,13 +34,13 @@ Here is 4G Module test with Radxa CM5. I tested Quectel EG25-G and Simcom A7672S
 
 ## 4. Enjoy your device
 
-<img width="860" alt="sms sent" src="https://github.com/user-attachments/assets/1b502a1b-1596-47f2-b6ea-d9299a4ea659" />
-
-(Quectel EG25-G - Send SMS)
-
 <img width="330" alt="sms demo" src="https://github.com/user-attachments/assets/5478bb25-3ad6-4bf5-af59-74e1001b96ed" />
 
 (Quectel EG25-G - Receive SMS)
+
+![eg25](https://github.com/user-attachments/assets/940a362f-fc70-436a-9999-2e909f84110d)
+
+(Quectel EG25-G - Receive MQTT)
 
 Radxa CM5 4G Module
 
