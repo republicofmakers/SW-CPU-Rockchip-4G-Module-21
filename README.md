@@ -35,7 +35,7 @@ Here is 4G Module test with Radxa CM5. I tested Quectel EG25-G.
 
 (Quectel EG25-G - internet surfing)
 
-(For internet surfing , I removed wifi module and ethernet cable)
+Note: For internet surfing, I removed wifi module and ethernet cable.
 
 Radxa CM5 4G Module
 
