@@ -31,7 +31,7 @@ Here is 4G Module test with Radxa CM5. I tested Quectel EG25-G.
 
 (Quectel EG25-G - Receive MQTT)
 
-<img width="926" height="670" alt="4g module internet" src="https://github.com/user-attachments/assets/6a608dbe-5c40-4924-8a2b-1af7058452aa" />
+<img width="926" height="670" alt="4g module internet" src="https://github.com/user-attachments/assets/b963f74a-3a2c-42ac-ba40-9fd480c83cc7" />
 
 (Quectel EG25-G - internet surfing)
 
